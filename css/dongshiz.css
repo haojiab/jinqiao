@@ -1,0 +1,16 @@
+.text{
+    padding: 30px;
+}
+.text p{
+    text-indent: 2em;
+    color: #963;
+    line-height: 30px;
+}
+.text p:nth-child(1){
+    text-indent: 0em;
+}
+.text span{
+    display: inline-block;
+    margin: 30px;
+    color: #963;
+}

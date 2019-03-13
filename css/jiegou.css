@@ -1,0 +1,13 @@
+.cont li:nth-child(1) {
+    background: #963;
+    color: #fff;
+}
+.cont li:nth-child(3) {
+    background: #fff;
+    color: #963;
+}
+.text{
+    text-align: center;
+    color: #963;
+    margin: 80px 0px;
+}

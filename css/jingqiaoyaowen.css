@@ -1,0 +1,20 @@
+.conten{
+    padding: 20px 50px;
+    color: #963;
+    line-height: 32px;
+}
+.cont .col-md-8 .pagination > li > a{
+    color: #fff;
+    border-radius: 0px;
+    margin-left: 10px;
+    background: #963;
+    border: 2px solid #963;
+}
+.act{
+    background: #fff!important;
+    color: #963!important;
+}
+.pagination{
+    margin-right: 20px;
+    margin-top: 50px;
+}

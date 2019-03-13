@@ -1,0 +1,24 @@
+.cont li:nth-child(1) {
+    background: #963;
+    color: #fff;
+}
+.cont li:nth-child(2) {
+    background: #fff;
+    color: #963;
+}
+.media{
+    border-radius: 5px;
+    box-shadow: 0 0 20px #929292;
+    padding: 10px 20px 10px 10px;
+    margin: 20px!important;
+}
+.media-body h5{
+    font-size: 16px;
+}
+.media-body span{
+    font-size: 13px;
+}
+.ziliao{
+    margin-bottom: 50px;
+    overflow: hidden;
+}

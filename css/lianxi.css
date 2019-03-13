@@ -1,0 +1,19 @@
+.cont li:nth-child(1) {
+    background: #963;
+    color: #fff;
+}
+.cont li:nth-child(5) {
+    background: #fff;
+    color: #963;
+}
+.cont .col-md-8 img{
+    display: inline-block;
+    margin:30px 5px;
+}
+.address{
+    color: #963;
+    margin-top: 50px;
+    line-height: 25px;
+    margin-bottom: 80px;
+    padding-left: 30px;
+}

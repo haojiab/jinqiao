@@ -1,0 +1,24 @@
+.conten h3{
+    text-align: center;
+}
+.conten h4{
+    margin-top: 50px;
+    color: #963;
+    margin-left: 40px;
+}
+.conten .text{
+    margin-left: 40px;
+    width: 60%;
+}
+.conten .col-md-8{
+    box-shadow: none;
+}
+.conten .col-md-2 a{
+    color: #963;
+    border: 1px solid #963;
+    border-radius: 0px;
+}
+.conten .col-md-2{
+    margin-left: 10%;
+    margin-top: 50%;
+}
